@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/spatie/laravel-permission/master/art/socialcard.png
+<img src="https://raw.githubusercontent.com/spatie/laravel-permission/master/art/socialcard.png">
